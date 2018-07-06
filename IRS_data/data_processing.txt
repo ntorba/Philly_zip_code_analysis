@@ -1,0 +1,5 @@
+pa_2015_original.csv is the orginal dataset obtained from the link: https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2015-zip-code-data-soi
+
+I copy and pasted the first 3 columns to get zipcode, tax bracket, and number of returns info 
+into the pa_2015_total_nubmer_returns.csv. Then I use the create_dataset.py file to pivot the data
+into a useful form. 
